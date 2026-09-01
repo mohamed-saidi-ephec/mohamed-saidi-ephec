@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Saidi</h1>
 
 <h3 align="center">
-  Computer Science Student • Application Development • Full-Stack Developer
+  Computer Science Student • Application Development • Full-Stack Development
 </h3>
 
 <p align="center">
@@ -24,48 +24,16 @@
 
 I'm **Mohamed Saidi**, a Computer Science student based in **Brussels, Belgium 🇧🇪**.
 
-I'm currently studying for a **Bachelor's degree in Computer Science – Application Development** at **EPHEC**.
+I'm currently pursuing a **Bachelor's degree in Computer Science – Application Development** at **EPHEC**.
 
-I enjoy building applications, solving problems and learning new technologies through real-world projects.
-
-My main focus is **full-stack development**, especially with **Java, Spring Boot, Angular and TypeScript**.
+My main focus is **full-stack development**, particularly with **Java, Spring Boot, Angular and TypeScript**.
 
 - 🎓 Computer Science student at **EPHEC**
-- 💻 Specializing in **Application Development**
-- ☕ Working mainly with **Java & Spring Boot**
-- 🅰️ Building front-end applications with **Angular & TypeScript**
-- 🔗 Interested in **Full-Stack Development**
-- 🔌 Learning how to design and build **REST APIs**
-- 🗄️ Working with databases and application data
-- 🔐 Interested in authentication and application security
-- 🧪 Improving my testing and software development practices
-- 🌿 Using Git & GitHub for version control
-- 🤖 Interested in AI and emerging technologies
-- 🌍 Always interested in discovering new technologies and cultures
-
----
-
-## 🔭 Currently Working On
-
-### 🎾 Padel Booking App
-
-A full-stack application for managing **padel court reservations**.
-
-The application includes reservation management, users, administration features and a complete frontend/backend architecture.
-
-<p>
-  <a href="https://github.com/Sai-360/Padel-booking-app">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**Technologies used:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+- ☕ Backend development with **Java & Spring Boot**
+- 🅰️ Front-end development with **Angular & TypeScript**
+- 🔌 Working with **REST APIs & databases**
+- 🧪 Improving my knowledge of **testing and software architecture**
+- 🤖 Interested in **AI and emerging technologies**
 
 ---
 
@@ -77,13 +45,13 @@ The application includes reservation management, users, administration features 
   <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+### ⚙️ Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,angular" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -94,24 +62,6 @@ The application includes reservation management, users, administration features 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-I'm continuously improving my knowledge of:
-
-- ☕ **Java**
-- 🌱 **Spring Boot**
-- 🅰️ **Angular**
-- 🔷 **TypeScript**
-- 🔌 **REST APIs**
-- 🗄️ **Databases**
-- 🏗️ **Full-Stack Architecture**
-- 🔐 **Authentication & Security**
-- 🧪 **Software Testing**
-- 🌿 **Git & GitHub**
-- 📐 **Clean Code & Software Architecture**
 
 ---
 
@@ -131,7 +81,7 @@ I'm continuously improving my knowledge of:
 
 ### 🐍 Snake Game
 
-> A simple Snake game created while practicing Java programming and game logic.
+> Simple Snake game built while practicing Java and game logic.
 
 **Java**
 
@@ -141,7 +91,20 @@ I'm continuously improving my knowledge of:
 
 ---
 
-## 🎯 What I'm Interested In
+## 🌱 Currently Learning
+
+- Java & Spring Boot
+- Angular & TypeScript
+- REST APIs
+- Databases
+- Full-Stack Architecture
+- Authentication & Security
+- Software Testing
+- Clean Code
+
+---
+
+## 🎯 Interests
 
 ```text
 Backend Development
